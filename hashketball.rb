@@ -8,7 +8,10 @@ def game_hash
   teams[:home] = {
     team_name: "", 
     colors:[], 
-    players:[{}]}
+    players:[{
+      player_name:"",
+      number: 
+    }]}
   
   teams[:away] = {
     team_name: "", 
