@@ -3,7 +3,7 @@ require 'pry'
 
 def game_hash
   
-  teams {}
+  teams = {}
   
   teams[home] = {
     team_name: "", 
