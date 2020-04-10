@@ -4,4 +4,4 @@ def game_hash
   
   teams {}
   
-  teams[home] = {team_name: ""
+  teams[home] = {team_name: "", colors:[], players:[{}]}
