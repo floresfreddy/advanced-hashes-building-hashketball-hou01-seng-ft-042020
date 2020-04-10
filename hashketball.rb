@@ -69,8 +69,8 @@ def game_hash
   }
   
   teams[:away] = {
-    team_name: "", 
-    colors:[""], 
+    team_name: "Charlotte Hornets", 
+    colors:["Turquoise", "Purple"], 
     players:[
       {
        player_name:"",
