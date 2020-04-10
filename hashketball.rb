@@ -5,12 +5,12 @@ def game_hash
   
   teams = {}
   
-  teams[home] = {
+  teams[:home] = {
     team_name: "", 
     colors:[], 
     players:[{}]}
   
-  teams[away] = {
+  teams[:away] = {
     team_name: "", 
     colors:[], 
     players:[{}]} 
